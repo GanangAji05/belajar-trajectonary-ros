@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #stestftf
+#sadasd asdasdas
 import rospy
 import actionlib
 from control_msgs.msg import FollowJointTrajectoryAction,FollowJointTrajectoryGoal
