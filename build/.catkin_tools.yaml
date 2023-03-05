@@ -1,0 +1,6 @@
+devel_space: /home/ganangaji/ur3_ws/devel
+install: false
+install_space: /home/ganangaji/ur3_ws/install
+profile: default
+source_space: /home/ganangaji/ur3_ws/src
+workspace: /home/ganangaji/ur3_ws
